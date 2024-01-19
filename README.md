@@ -20,3 +20,8 @@ Open dataanalysis.py from the same folder/cd as your previous output files and c
 Open datavisualization.py from the same folder/cd as your previous output files and click Run. The visuals generated are the raw images contained in the final report. These files, as generated for the report, are included in the /results folder.
 
 *******For legal reasons, author is not a licensed financial advisor and recommendations are made for entertainment purposes only******
+
+All code is the original work of author and is protected under the Apache 2.0 license.
+For questions or updates please contact Kyle W. Parker at kylewaynemba5000@gmail.com
+Many thanks and enjoy!
+-kwp
