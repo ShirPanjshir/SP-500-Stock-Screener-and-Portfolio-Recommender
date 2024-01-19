@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
+'''This portion creates visualizations and is supplemental to the previous analysis'''
 
 # read in the outputs of our analysis and quickly assess our portfolio to compare to index
 df = pd.read_csv('dataforvisualization.csv')  # main data set
